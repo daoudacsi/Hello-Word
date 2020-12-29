@@ -1,2 +1,3 @@
 # Hello-Word
-Just another repository
+Hello humans, I'm David
+I'm learning Github.
